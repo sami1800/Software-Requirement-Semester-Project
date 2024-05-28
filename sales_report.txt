@@ -1,0 +1,4 @@
+Sales Report
+============
+Total Books Sold: 24
+Total Money Earned: $3,808
